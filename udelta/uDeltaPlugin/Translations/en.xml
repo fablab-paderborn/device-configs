@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<translation revision="10" language="English" languageInEnglish="English" author="doods;thibaultherviou@gmail.com;thibault herviou">
+  <t id="AboutPlugin" ver="1">\r\n\r\nµDelta Plugin v1.0.5\r\nwritten by Hugo Flye from eMotion Tech \r\nIcons designed by Antony Soury\r\nwww.reprap-france.com</t>
+  <t id="boot_Calibration" ver="1">Click the triange to boot calibration tricks</t>
+  <t id="Calibration_Aborted " ver="1">Calibration aborted</t>
+  <t id="Cancel_Calibration" ver="1">Cancel calibration</t>
+  <t id="Choose_One_Towers" ver="1">Choose one towers</t>
+  <t id="Click_Start_Calibration" ver="1">Click the triangle to start the calibration</t>
+  <t id="Connect_printer" ver="1">Connect printer</t>
+  <t id="Download_Done" ver="1">Download Done</t>
+  <t id="Drag_Filament" ver="1">Bring the filament in the extruder head</t>
+  <t id="Error_PID" ver="1">Error: text PID value</t>
+  <t id="format_Go_Head" ver="1">Go Head to {0:0.00} mm</t>
+  <t id="format_Host_Connected" ver="1">host.Connection.connector.IsConnected(): {0}</t>
+  <t id="format_Lower_Head" ver="1">Lower Head to {0:0.00} mm</t>
+  <t id="format_Not_Under" ver="1">You should not be in {0} mm, check your Zmax in EEPROM</t>
+  <t id="host_No_connected" ver="1">Host is not connected, please connect the host before sending commands</t>
+  <t id="Information_Calibrate_Head" ver="1">Drop the head with arrows for touch the paper, switch when you are finished</t>
+  <t id="PluginName" ver="1">µDeltaPlugin</t>
+  <t id="Remove_Filament" ver="1">Remove the filament extrusion head</t>
+  <t id="Save" ver="1">Save the configuration?</t>
+  <t id="Save_Calibration" ver="1">Have you finished? Do not forget to save the calibration</t>
+  <t id="Select_Tower" ver="1">Select the tower</t>
+  <t id="Start" ver="1">Start the calibration?</t>
+  <t id="tab_Name" ver="1">µDelta</t>
+  <t id="wait_Heated" ver="1">Be patient, wait for the heating of the extruded</t>
+  <t id="Warning_Printer_Connection" ver="1">Be careful you're not connected to your printer !!</t>
+  <t id="Preferences" ver="1">Preferences</t>
+  <t id="Remove" ver="1">remove</t>
+  <t id="Extrude" ver="1">extrude</t>
+  <t id="Connect_Printer" ver="1">Connect your printer</t>
+  <t id="L_Update" ver="1">- Run update</t>
+  <t id="Update" ver="1">Net update</t>
+  <t id="GroupBoxZ_Text" ver="1">Distance between the top and the nozzle:</t>
+  <t id="Go_To" ver="1">Go to position</t>
+  <t id="DefHeight" ver="1">define height</t>
+  <t id="Curent_Z_Max" ver="1">Current Zmax:</t>
+  <t id="Home_Z" ver="1">Home Z</t>
+  <t id="PIDTune_Text" ver="1">Calibration heater (cold start and wait patiently)</t>
+  <t id="Tune_PID" ver="1">Auto-tune PID</t>
+  <t id="Target_Temp" ver="1">Target temperature:</t>
+  <t id="Reset_Default_PID" ver="1">Reset defaut PID</t>
+  <t id="GroupBoxCalibration_Text" ver="1">calibration Rod</t>
+  <t id="calibration_rods" ver="1">Correction different links:</t>
+  <t id="sending corrections" ver="1">sending corrections</t>
+  <t id="w_Host_No_connected" ver="1">Host not connected, please connect the host before sending commands</t>
+  <t id="L_downloading" ver="1">Downloading</t>
+  <t id="L_downloaded" ver="1">Downloaded</t>
+  <t id="L_LocalUpdate" ver="1">Local Update</t>
+  <t id="URL_Net_Update">http://data.emotion-tech.com/ftp/%C2%B5Delta/Logiciels/EEPROM_%C2%B5Delta/eeprom.emtc</t>
+</translation>
+

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation revision="10" language="Italiano" languageInEnglish="Italian" author="doods;thibaultherviou@gmail.com;thibault herviou">
+  <t id="AboutPlugin" ver="1">\r\n\r\nµDelta Plugin v1.0.5\r\nwritten by Hugo Flye from eMotion Tech \r\nIcons designed by Antony Soury\r\nwww.reprap-france.com</t>
+  <t id="boot_Calibration" ver="1">Click the triange to boot calibration tricks</t>
+  <t id="Calibration_Aborted " ver="1">Calibration aborted</t>
+  <t id="Cancel_Calibration" ver="1">Cancel calibration</t>
+  <t id="Choose_One_Towers" ver="1">Choose one towers</t>
+  <t id="Click_Start_Calibration" ver="1">Fare clic sul triangolo per avviare la calibrazione</t>
+  <t id="Connect_printer" ver="1">Collegare stampante</t>
+  <t id="Download_Done" ver="1">Scarica Fatto</t>
+  <t id="Drag_Filament" ver="1">Portare il filamento nella testa dell'estrusore</t>
+  <t id="Error_PID" ver="1">Erreur: valeur de text PID</t>
+  <t id="format_Go_Head" ver="1">Vai Testa a {0:0.00} mm</t>
+  <t id="format_Host_Connected" ver="1">host.Connection.connector.IsConnected(): {0}</t>
+  <t id="format_Lower_Head" ver="1">Abbassare la testa {0:0.00} mm</t>
+  <t id="format_Not_Under" ver="1">Non dovrebbe essere in {0} mm, controllare la Zmax in EEPROM</t>
+  <t id="host_No_connected" ver="1">Host non è collegato, collegare l'host prima di inviare comandi</t>
+  <t id="Information_Calibrate_Head" ver="1">Eliminare la testa con le frecce per toccare la carta, passare quando si è finito</t>
+  <t id="PluginName" ver="1">µDeltaPlugin</t>
+  <t id="Remove_Filament" ver="1">Rimuovere la testa di estrusione di filamenti</t>
+  <t id="Save" ver="1">Salvare la configurazione?</t>
+  <t id="Save_Calibration" ver="1">Hai finito? Non dimenticare di salvare la calibrazione</t>
+  <t id="Select_Tower" ver="1">Selezionare la torre</t>
+  <t id="Start" ver="1">Avviare la calibrazione?</t>
+  <t id="tab_Name" ver="1">µDelta</t>
+  <t id="wait_Heated" ver="1">Soyez paziente, attendez la chauffe de l'estrusore</t>
+  <t id="Warning_Printer_Connection" ver="1">Fare attenzione a non sei connesso alla stampante !!</t>
+  <t id="Preferences" ver="1">Preferenze</t>
+  <t id="Remove" ver="1">rimuovere</t>
+  <t id="Extrude" ver="1">estrudere</t>
+  <t id="Connect_Printer" ver="1">Collegare la stampante</t>
+  <t id="L_Update" ver="1">- Aggiornamento Run</t>
+  <t id="Update" ver="1">net update</t>
+  <t id="GroupBoxZ_Text" ver="1">Distanza tra la parte superiore e l'ugello:</t>
+  <t id="Go_To" ver="1">Vai a posizionare</t>
+  <t id="DefHeight" ver="1">definire altezza</t>
+  <t id="Curent_Z_Max" ver="1">Zmax corrente:</t>
+  <t id="Home_Z" ver="1">Pagina iniziale Z</t>
+  <t id="PIDTune_Text" ver="1">Riscaldatore di calibrazione (avviamento a freddo e attendere con pazienza)</t>
+  <t id="Tune_PID" ver="1">Auto-tune PID</t>
+  <t id="Target_Temp" ver="1">Temperatura nominale:</t>
+  <t id="Reset_Default_PID" ver="1">Ripristina predefinito PID</t>
+  <t id="GroupBoxCalibration_Text" ver="1">calibrazione Rod</t>
+  <t id="calibration_rods" ver="1">Correzione diversi link:</t>
+  <t id="sending corrections" ver="1">l'invio di correzioni</t>
+  <t id="w_Host_No_connected" ver="1">Host non collegato, collegare l'host prima di inviare comandi</t>
+  <t id="L_downloading" ver="1">Scaricare</t>
+  <t id="L_downloaded" ver="1">Scaricato</t>
+  <t id="L_LocalUpdate" ver="1">Aggiornamento locale</t>
+</translation>
+
+

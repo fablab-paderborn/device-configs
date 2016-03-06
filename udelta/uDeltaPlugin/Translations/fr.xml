@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation revision="4" language="Français" languageInEnglish="French" author="doods;thibaultherviou@gmail.com;thibault herviou">
+  <t id="AboutPlugin" ver="1">\r\n\r\nµDelta Plugin v1.0.5\r\nwritten by Hugo Flye from eMotion Tech \r\nIcons designed by Antony Soury\r\nwww.reprap-france.com</t>
+  <t id="boot_Calibration" ver="1">Cliquez sur le triangle pour demarrer la calibration des tours</t>
+  <t id="Calibration_Aborted " ver="1">calibration annulée</t>
+  <t id="Cancel_Calibration" ver="1">Annuler la calibration</t>
+  <t id="Choose_One_Towers" ver="1">Choisissez une des tours pour la calibrer</t>
+  <t id="Click_Start_Calibration" ver="1">Cliquez sur le triangle pour démarrer la calibration</t>
+  <t id="Connect_printer" ver="1">Connectez votre imprimante</t>
+  <t id="Download_Done" ver="1">Mise à jour effectuée</t>
+  <t id="Drag_Filament" ver="1">Entrainez le filament dans la tête d'extrusion</t>
+  <t id="Error_PID" ver="1">Erreur: valeur de text PID</t>
+  <t id="format_Go_Head" ver="1">Remonter la tête de {0:0.00} mm</t>
+  <t id="format_Host_Connected" ver="1">host.Connection.connector.IsConnected(): {0}</t>
+  <t id="format_Lower_Head" ver="1">Descendre la tête de {0:0.00} mm</t>
+  <t id="format_Not_Under" ver="1">vous ne devriez pas être sous {0}mm, vérifiez votre Zmax dans l'EEPROM</t>
+  <t id="host_No_connected" ver="1">L'Hôte n'est pas connecté, s'il vous plaît connecter l'hôte avant l'envoi de commandes</t>
+  <t id="Information_Calibrate_Head" ver="1">Descendez la tête avec les flèches jusqu'a toucher la feuille de papier, changez de tour quand vous avez terminé</t>
+  <t id="PluginName" ver="1">µDeltaPlugin</t>
+  <t id="Remove_Filament" ver="1">Retirez le filament de la tête d'extrusion</t>
+  <t id="Save" ver="1">Sauver la configuration?</t>
+  <t id="Save_Calibration" ver="1">Vous avez terminé? N'oubliez pas de sauver la calibration</t>
+  <t id="Select_Tower" ver="1">Selectionnez la tour</t>
+  <t id="Start" ver="1">Demarrer la calibration?</t>
+  <t id="tab_Name" ver="1">µDelta</t>
+  <t id="wait_Heated" ver="1">Soyez patient, attendez la chauffe de l'extruder</t>
+  <t id="Warning_Printer_Connection" ver="1">Attention vous n'êtes pas connecté à votre imprimante!!</t>
+  <t id="Preferences" ver="1">Preférences</t>
+  <t id="Remove" ver="1">Retirer</t>
+  <t id="Extrude" ver="1">Extruder</t>
+  <t id="Connect_Printer" ver="1">Connectez votre imprimante</t>
+  <t id="L_Update" ver="1">- Lancez la mise à jour</t>
+  <t id="Update" ver="1">Net update</t>
+  <t id="GroupBoxZ_Text" ver="1">Distance entre le haut et la buse:</t>
+  <t id="Go_To" ver="1">Aller à la position</t>
+  <t id="DefHeight" ver="1">Definir hauteur</t>
+  <t id="Curent_Z_Max" ver="1">Zmax actuel:</t>
+  <t id="Home_Z" ver="1">Home Z</t>
+  <t id="PIDTune_Text" ver="1">Calibration chauffe (lancez à froid et attendez patiemment):</t>
+  <t id="Tune_PID" ver="1">Auto-tune PID</t>
+  <t id="Target_Temp" ver="1">Temperature cible:</t>
+  <t id="Reset_Default_PID" ver="1">Reset defaut PID</t>
+  <t id="GroupBoxCalibration_Text" ver="1">Calibration Bielle</t>
+  <t id="calibration_rods" ver="1">Correction des différentes bielles:</t>
+  <t id="sending corrections" ver="1">Envoi corrections</t>
+  <t id="w_Host_No_connected" ver="1">L'Hôte n'est pas connecté, s'il vous plaît connecter l'hôte avant l'envoi de commandes</t>
+  <t id="L_downloading" ver="1">Téléchargement</t>
+  <t id="L_downloaded" ver="1">Téléchargé</t>
+  <t id="L_LocalUpdate" ver="1">mise à jour locale</t>
+</translation>
